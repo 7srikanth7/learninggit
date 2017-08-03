@@ -16,5 +16,6 @@ public class ReverseDigits {`
 		}
 		nu.close();
 	}
+	system
 	}
 
